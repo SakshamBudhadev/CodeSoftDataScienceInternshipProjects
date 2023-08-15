@@ -1,2 +1,2 @@
 # DataScienceInternshipProjects
-4 projects of data science
+Projects of data science
